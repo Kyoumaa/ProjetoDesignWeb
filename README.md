@@ -1,7 +1,7 @@
 # ProjetoDesignWeb
 Repositório Criado para o trabalho do professor Ricardo, com o objetivo de simular um site para refugiadas.
 
-Nome do ALuno: Iury Duarte Grilly
+Nome do Aluno: Iury Duarte Grilly
 Turma: SI1N
 
 ## Sobre o Java Script:
